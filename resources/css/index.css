@@ -1,0 +1,13 @@
+.banner {
+  text-align: center;
+}
+
+#personal-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.text2 {
+  font-weight: lighter;
+}
